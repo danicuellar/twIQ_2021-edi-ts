@@ -1,4 +1,4 @@
-# Cocinando con EDI
+# Cocinando con Edi
   Lugar donde encontrarás numerosas recetas que se adaptarán a cada uno de los usuarios. Para ello dispondremos de un menú en el que se especificarán los gustos y alergias para encontrar el plato perfecto.
 
 ## Integrantes del equipo
